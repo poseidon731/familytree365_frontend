@@ -2055,10 +2055,10 @@
     vue-router "^3.0.1"
     vuetify "^1.0.18"
 
-"@stripe/stripe-js@^1.11.0", "@stripe/stripe-js@^1.17.1":
-  version "1.17.1"
-  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-1.17.1.tgz#afcb7e86d0b05d1a7af53af89111abd2e8d437ae"
-  integrity sha512-c9MyDvdi5Xou0j0JPNy86NebtTDfh9o62Ifuzx6GSm2YO0oedBpy51WSyOue2L8Fb+mqESS5gd6mGVEIPUnXsA==
+"@stripe/stripe-js@^1.11.0", "@stripe/stripe-js@^1.34.0":
+  version "1.34.0"
+  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-1.34.0.tgz#62fecff2580469ec56ec31066b73a0fc016749b8"
+  integrity sha512-fFuchE1mK2GWyZmTS87L6NaIvKo4yIj3SpkTuHY41A7frfB07/3z8l1jBrHKGzvVnlFkeCVnEvfMjBmdlqcO6w==
 
 "@tootallnate/once@1":
   version "1.1.2"
@@ -3427,10 +3427,10 @@ browserslist@*, browserslist@^4.0.0, browserslist@^4.12.0, browserslist@^4.16.6,
     escalade "^3.1.1"
     node-releases "^1.1.71"
 
-buefy@^0.9.10:
-  version "0.9.10"
-  resolved "https://registry.yarnpkg.com/buefy/-/buefy-0.9.10.tgz#17f64ee1ba43a145d1d3c56f45cba95e4e2975fa"
-  integrity sha512-xXEoy/NTgBNiIfBTCdHi2Vu5SJJdB046py6ekUvYuUgYwRvulySZksdecVNNWdfEVU8iD4esZaRbTLwCegFcVQ==
+buefy@^0.9.21:
+  version "0.9.21"
+  resolved "https://registry.yarnpkg.com/buefy/-/buefy-0.9.21.tgz#1b01f4dafefe958ca7934447dfe821dfef18d2fe"
+  integrity sha512-geOJgzi5jFDyRJ9Zl0379yyRBatZ6Qg83kRnCJTb7/nCuXcfXd/eis3tFaDTGuntnfv2MezHzc092OIHwgRwAg==
   dependencies:
     bulma "0.9.3"
 
@@ -8979,12 +8979,12 @@ number-is-nan@^1.0.0:
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
 
-nuxt-buefy@^0.4.10:
-  version "0.4.10"
-  resolved "https://registry.yarnpkg.com/nuxt-buefy/-/nuxt-buefy-0.4.10.tgz#7e091ebee5c7dd2bf9de46a3b7a36a3a4d0d4fba"
-  integrity sha512-Kk/QrNXUrIe3/iPecb0v1OmcZWfdihioEuPtqW4OUfaDDPrVUdfPPRKLMHNgy1OPxDEGSor/h3zMr23d9/0Nyw==
+nuxt-buefy@^0.4.8:
+  version "0.4.23"
+  resolved "https://registry.yarnpkg.com/nuxt-buefy/-/nuxt-buefy-0.4.23.tgz#d2283e043df786358626d51f875df592312c1870"
+  integrity sha512-3qvYogNPQ/xO1xjgyVnQViKcnCWTUUgqBGwfdYQhk9QlDqECsaOUt4ri9PVfRjAkD/Zpjg7RNM5gS105STZYoA==
   dependencies:
-    buefy "^0.9.10"
+    buefy "^0.9.21"
 
 nuxt-content-algolia@^0.2.0:
   version "0.2.0"
